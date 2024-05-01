@@ -1,5 +1,5 @@
 // A C++ Program to implement A* Search Algorithm
-#include <pranav.h>
+#include <bits/stdc++.h>
 using namespace std;
 
 #define ROW 9
